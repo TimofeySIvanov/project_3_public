@@ -1,2 +1,2 @@
 By Timofey Ivanov
-This js scrip creates form for registration
+This js code creates form for registration
